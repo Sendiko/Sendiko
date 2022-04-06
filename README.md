@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sendiko
 - 👀 I’m interested in Web and Mobile Programming
 - 🌱 I’m currently studying in SMK Telkom Purwokerto
-- 💞️ I’m looking to collaborate on some small but powerful project
+- 💞️ I’m looking for love
 - 📫 How to reach me 3103120150@student.smktelkom-pwt.sch.id 
 
 <!---
