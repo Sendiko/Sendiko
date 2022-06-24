@@ -1,3 +1,7 @@
+
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sendiko&theme=onedark" alt="Sendiko"/></p>
+
 - 👋 Hi, I’m @Sendiko
 - 👀 I’m interested in Mobile Programming | Kotlin, Jetpack, Compose
 - 🧑‍💼 I'm currently an intern at Puskomedia Kreatif
