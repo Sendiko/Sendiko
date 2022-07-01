@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sendiko&theme=onedark" alt="Sendiko"/></p>
 <p align="center"><a href="https://github.com/sendiko">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochman25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sendiko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a></p>
 
 - 👋 Hi, I’m @Sendiko
