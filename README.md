@@ -6,8 +6,7 @@
 </a></p>
 
 - 👋 Hi, I’m @Sendiko
-- 👀 I’m interested in Mobile Programming | Kotlin, Jetpack, Compose
-- 🧑‍💼 I'm currently an intern at Puskomedia Kreatif
+- 👀 I’m interested in Mobile Programming | Kotlin, Jetpack, Java
 - 🌱 I’m also currently studying in SMK Telkom Purwokerto
 - 💞️ I’m looking for love
 - 📫 How to reach me 3103120150@student.smktelkom-pwt.sch.id 
