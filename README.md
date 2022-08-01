@@ -1,11 +1,11 @@
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sendiko&theme=onedark" alt="Sendiko"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sendiko&theme=algolia" alt="Sendiko"/></p>
 <p align="center"><a href="https://github.com/sendiko">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sendiko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a></p>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sendiko&layout=compact&theme=onedark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sendiko&layout=compact&theme=algolia)
 
 - 👋 Hi, I’m @Sendiko
 - 👀 I’m interested in Mobile Programming | Kotlin, Jetpack, Java
