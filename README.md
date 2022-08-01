@@ -5,6 +5,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sendiko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a></p>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sendiko&layout=compact&theme=onedark)
+
 - 👋 Hi, I’m @Sendiko
 - 👀 I’m interested in Mobile Programming | Kotlin, Jetpack, Java
 - 🌱 I’m currently studying in SMK Telkom Purwokerto
