@@ -6,7 +6,7 @@
 </a></p>
 
 - 👋 Hi, I’m @Sendiko
-- 👀 I’m interested in Mobile Programming | Kotlin, Jetpack, Java
+- 👀 I’m interested in Mobile Programming | Kotlin, Jetpack, Java, Hopefully Compose Multiplatform soon!
 - 💞️ Found my love ;)
 - 📫 How to reach me: rizkysendiko7@gmail.com
 
