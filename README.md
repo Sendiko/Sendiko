@@ -4,7 +4,7 @@
 ###  🏫 Currently studying at Telkom University Bandung 
 ___
 Majoring in Software Engineering, with goals in mind:
- - ✨ Advanced more in Android Developing
+ - ✨ Advance more in Android Developing
  - 🧪 Participate in Labs and Competitions
  - ✈️ Gain more flight hours
 <br>
