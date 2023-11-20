@@ -24,7 +24,7 @@ ___
   - Using Retrofit and HttpLoggingInterceptor to make Http requests.
   - Provide Restful APIs with Laravel and Express.js.
   - MVVM and MVC Architecture makes my project easily maintained and scaled.
-  - Simple and easy to use UI with Compose
+  - Simple and easy to use UI with Compose.
 <br>
 
   ### 🏢 I have worked for
@@ -33,8 +33,8 @@ ___
    - PT Puskomedia Indonesia Kreatif ```as Android Developer```
      - Working with Datastore Preferences to save state.
      - Consume Restful APIs with Retrofit and HttpLoggingInterceptor
-     - Git versioning
-     - Work together with the Backend Dev Team
+     - Git versioning.
+     - Work together with the Backend Dev Team.
 <!---
 Sendiko/Sendiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
