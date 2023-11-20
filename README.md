@@ -35,6 +35,13 @@ ___
      - Consume Restful APIs with Retrofit and HttpLoggingInterceptor
      - Git versioning.
      - Work together with the Backend Dev Team.
+ <br>
+
+ ### 🏗️ On going project(s)
+ ___
+  - CalcMenus! ```priority```
+  - Golden Sendiko 
+  - duitku kemana? 
 <!---
 Sendiko/Sendiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
