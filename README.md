@@ -28,7 +28,7 @@ ___
   ### 🏢 I have worked for
   ___
   
-   - PT Puskomedia Indonesia Kreatif ```as Android Developer```
+   - PT Puskomedia Indonesia Kreatif ```as Android Developer``` ```2022```
      - Working with Datastore Preferences to save state.
      - Consume Restful APIs with Retrofit and HttpLoggingInterceptor
      - Git versioning.
