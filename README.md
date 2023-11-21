@@ -9,6 +9,13 @@ Majoring in Software Engineering, with goals in mind:
  - ✈️ Gain more flight hours
 <br>
 
+### 🎯 Point of interests
+___
+ - Android Development with Kotlin and Compose
+ - CI/CD
+ - Compose Multiplatform
+ <br>
+
 ### ⚒️ Some things i have made
 ___
  - JustDoIt!, Todo list app that helps you manage your daily tasks and chores. | [JustDoIt!](https://github.com/Sendiko/JustDoIt)
