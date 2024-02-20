@@ -7,17 +7,26 @@ Majoring in Software Engineering, with goals in mind:
  - ✨ Advance more in Android Developing
  - 🧪 Participate in Labs and Competitions
  - ✈️ Gain more flight hours
+
+<br>
+
 ### 🎯 Point of interests
 ___
  - Android Development with Kotlin and Compose
  - CI/CD
  - Compose Multiplatform
+
+<br>
+
 ### ⚒️ Some things i have made
 ___
- - JustDoIt!, Todo list app that helps you manage your daily tasks and chores. | [JustDoIt!](https://github.com/Sendiko/JustDoIt)
+ - SimplyNoteIt, Alternative todo list app that supports Cloud Synced data and multi user! | [SimplyNoteIt](https://github.com/Sendiko/SimplyNoteIt)
  - Split The Bill, avoid chaos about splitting bills and saves your friendship. | [Split The Bill](https://github.com/Sendiko/split-the-bill)
  - ternaQu, lets you provide the best food and treatment for your livestock. | [ternaQu](https://github.com/Sendiko/dncc-ternaqu)
  - Compose TicTacToe, bored out of your mind? try play some tictactoe! | [Compose TicTacToe](https://github.com/Sendiko/tictactoe-compose)
+ 
+<br>
+
  ### 🛣️ How did i made those?
  ___
   - First and most important, I built my android apps with Kotlin, earlier app were using XML, but i have migrated to Compose 
@@ -25,6 +34,9 @@ ___
   - Using Retrofit and HttpLoggingInterceptor to make Http requests.
   - Provide Restful APIs with Laravel and Express.js.
   - MVVM and MVC Architecture makes my project easily maintained and scaled.
+    
+<br>
+
   ### 🏢 I have worked for
   ___
   
@@ -33,6 +45,9 @@ ___
      - Consume Restful APIs with Retrofit and HttpLoggingInterceptor
      - Git versioning.
      - Work together with the Backend Dev Team.
+ 
+<br>
+
  ### 🏗️ On going project(s)
  ___
   - CalcMenus! ```priority```
