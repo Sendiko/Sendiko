@@ -15,25 +15,17 @@ ___
  - Android Development with Kotlin and Compose
  - CI/CD
  - Compose Multiplatform
-
-<br>
-
-### ⚒️ Some things i have made
-___
- - SimplyNoteIt, Alternative todo list app that supports Cloud Synced data and multi user! | [SimplyNoteIt](https://github.com/Sendiko/SimplyNoteIt)
- - Split The Bill, avoid chaos about splitting bills and saves your friendship. | [Split The Bill](https://github.com/Sendiko/split-the-bill)
- - ternaQu, lets you provide the best food and treatment for your livestock. | [ternaQu](https://github.com/Sendiko/dncc-ternaqu)
- - Compose TicTacToe, bored out of your mind? try play some tictactoe! | [Compose TicTacToe](https://github.com/Sendiko/tictactoe-compose)
  
 <br>
 
- ### 🛣️ How did i made those?
+ ### 🏗️ Main skills
  ___
-  - First and most important, I built my android apps with Kotlin, earlier app were using XML, but i have migrated to Compose 
-  - Saves data locally with Room Database and Datastore Preferences.
-  - Using Retrofit and HttpLoggingInterceptor to make Http requests.
-  - Provide Restful APIs with Laravel and Express.js.
-  - MVVM and MVC Architecture makes my project easily maintained and scaled.
+  - Kotlin. Using flows, data class, and interfaces.
+  - Compose. Customising UI Components to reach desireable design.
+  - Architectures. Using MVVM to structure application that makes it easily scalable.
+  - Storing data. Saves complicated data using Room Databases and storing simple states using Datastore Preferences.
+  - Http requests. Implementing Retrofit and HttpLoggingInterceptor to request and recieve data from API.
+  - Dependency Injection. Using DaggerHilt as DI Framework speeds up the development process.
     
 <br>
 
