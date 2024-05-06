@@ -16,7 +16,7 @@ ___
  ___
   - Kotlin. Using flows, data class, and interfaces.
   - Compose. Customising UI Components to reach desireable design.
-  - Architectures. Using MVVM to structure application that makes it easily scalable.
+  - Architectures. Using MVI and Clean Architechture to structure application that makes it easily scalable.
   - Storing data. Saves complicated data using Room Databases and storing simple states using Datastore Preferences.
   - Http requests. Implementing Retrofit and HttpLoggingInterceptor to request and recieve data from API.
   - Dependency Injection. Using DaggerHilt as DI Framework speeds up the development process.
@@ -29,12 +29,7 @@ ___
      - Consume Restful APIs with Retrofit and HttpLoggingInterceptor
      - Git versioning.
      - Work together with the Backend Dev Team.
-     - 
- ### 🏗️ On going project(s)
- ___
-  - CalcMenus! ```priority```
-  - Golden Sendiko 
-  - duitku kemana? 
+  
 <!---
 Sendiko/Sendiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
