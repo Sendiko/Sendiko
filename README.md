@@ -1,4 +1,4 @@
-##  Hi, I'm Sendiko
+![readme_header](https://github.com/Sendiko/Sendiko/assets/91923470/0b49fc5a-b967-41de-af3e-36c4c0dab6d0)
 
 I'm a passionate Android developer currently honing my skills at Telkom University Bandung. I'm excited to build modern, scalable, and user-friendly applications.
 
