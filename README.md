@@ -15,8 +15,6 @@ I'm a passionate Android developer currently honing my skills at Telkom Universi
 
 **Feel free to reach out to me!**
 
-**Connect with me:** (Add your preferred social media or communication links here)
-
 <!---
 Sendiko/Sendiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
