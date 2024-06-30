@@ -1,25 +1,22 @@
-# 👋 Hi, I’m Sendiko
-###  🏫 Currently studying at Telkom University Bandung 
-___
-Majoring in Software Engineering, with goals in mind:
- - ✨ Advance more in Android Development
- - 🧪 Participate in Labs and Projects
- - ✈️ Gain more flight hours
+##  Hi, I'm Sendiko
 
-### 🎯 Point of interests
-___
- - Android Development with Kotlin and Compose
- - CI/CD
- - Compose Multiplatform
+I'm a passionate Android developer currently honing my skills at Telkom University Bandung. I'm excited to build modern, scalable, and user-friendly applications.
 
- ### 🏗️ Main skills
- ___
-  - Kotlin. Using flows, data class, and interfaces.
-  - Compose. Customising UI Components to reach desireable design.
-  - Architectures. Using MVI and Clean Architechture to structure application that makes it easily scalable.
-  - Storing data. Saves complicated data using Room Database and storing simple states using Datastore Preferences.
-  - Http requests. Implementing Retrofit and HttpLoggingInterceptor to request and recieve data from API.
-  - Dependency Injection. Using DaggerHilt as DI Framework speeds up the development process.
+**My technical strengths include:**
+
+* **Kotlin:** I leverage the power of Kotlin to write concise, clean, and maintainable code. I'm proficient in utilizing flows, data classes, and interfaces to structure complex data and logic.
+* **Jetpack Compose:** I create beautiful and responsive user interfaces using Jetpack Compose. I'm comfortable customizing UI components to achieve your desired design vision.
+* **Architectures:** I believe in well-structured applications. I implement MVI (Model-View-Intent) and Clean Architecture principles to promote modularity, testability, and scalability.
+* **Data Persistence:** I understand the importance of efficient data storage. I employ Room Database to handle complex and persistent data, while utilizing Datastore Preferences for simpler app state management.
+* **Networking:** I'm adept at making HTTP requests using Retrofit. I integrate HttpLoggingInterceptor for insightful debugging and monitoring API interactions.
+* **Dependency Injection:** I believe in efficient development practices. I use DaggerHilt as a dependency injection framework to streamline the injection process and improve application code organization.
+
+**I'm always eager to learn new things and contribute to open-source projects.**
+
+**Feel free to reach out to me!**
+
+**Connect with me:** (Add your preferred social media or communication links here)
+
 <!---
 Sendiko/Sendiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
