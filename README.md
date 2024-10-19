@@ -18,7 +18,7 @@ I'm a passionate Android developer currently honing my skills at Telkom Universi
 
 **Feel free to reach out to me!**
 <br> 
-[![Contact](https://skillicons.dev/icons?i=gmail)](mailto:rizkysendiko7@gmail.com) [![Contact](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sendikoapp.kt
+[![Contact](https://skillicons.dev/icons?i=gmail)](mailto:rizkysendiko7@gmail.com) [![Contact](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sendiko__
 ) 
 <!---
 Sendiko/Sendiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
