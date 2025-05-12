@@ -4,11 +4,11 @@ I'm a passionate Android developer currently honing my skills at Telkom Universi
 
 **My technical strengths include:**
 * **Kotlin:** I leverage the power of Kotlin to write concise, clean, and maintainable code. I'm proficient in utilizing flows, data classes, and interfaces to structure complex data and logic.
-* **Jetpack Compose:** I create beautiful and responsive user interfaces using Jetpack Compose. I'm comfortable customizing UI components to achieve your desired design vision.
+* **Compose Multiplatform:** I create beautiful and responsive user interfaces using Jetpack Compose. I'm comfortable customizing UI components to achieve your desired design vision for Multiplatform Application.
 * **Architectures:** I believe in well-structured applications. I implement MVI (Model-View-Intent) and Clean Architecture principles to promote modularity, testability, and scalability.
 * **Data Persistence:** I understand the importance of efficient data storage. I employ Room Database to handle complex and persistent data, while utilizing Datastore Preferences for simpler app state management.
-* **Networking:** I'm adept at making HTTP requests using Retrofit. I integrate HttpLoggingInterceptor for insightful debugging and monitoring API interactions.
-* **Dependency Injection:** I believe in efficient development practices. I use DaggerHilt as a dependency injection framework to streamline the injection process and improve application code organization.
+* **Networking:** I'm adept at making HTTP requests using Retrofit and Ktor. I integrate HttpLoggingInterceptor and Ktor-Logging for insightful debugging and monitoring API interactions.
+* **Dependency Injection:** I believe in efficient development practices. I use DaggerHilt and Koin as a dependency injection framework to streamline the injection process and improve application code organization.
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,gradle,kotlin,git,postman&theme=dark)]()
