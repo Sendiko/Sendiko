@@ -1,6 +1,6 @@
 ##  Hi, I'm Sendiko
 
-I'm a passionate Android developer currently honing my skills at Telkom University Bandung. I'm excited to build modern, scalable, and user-friendly applications. Currently learning Compose Multiplatform!
+I'm a passionate Android developer currently honing my skills at Telkom University Bandung. I'm excited to build modern, scalable, and user-friendly applications. Currently learning Compose Multiplatform! | [Sendiko | Fullstack Kotlin Developer](https://www.sendiko.my.id)
 
 **My technical strengths include:**
 * **Kotlin:** I leverage the power of Kotlin to write concise, clean, and maintainable code. I'm proficient in utilizing flows, data classes, and interfaces to structure complex data and logic.
