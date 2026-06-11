@@ -24,3 +24,10 @@ I'm a passionate Android developer currently honing my skills at Telkom Universi
 Sendiko/Sendiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
+
+![Sendiko's Stats](https://github-readme-stats.vercel.app/api?username=Sendiko&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
+
+<br>
+
+![Sendiko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sendiko&theme=shades-of-purple&hide_border=false)
